@@ -72,7 +72,6 @@ public:
 		roofCompleated = true;
 	}
 
-
 	virtual void Show() override
 	{
 		BuildingWithWalls::Show();
@@ -104,6 +103,10 @@ int main()
 	br.Show();
 	br.buildRoof();
 	br.Show();
+
+	cout << endl;
+	
+
 
 
 	return 0;
