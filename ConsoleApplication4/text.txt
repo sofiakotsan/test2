@@ -1,0 +1,3 @@
+brand=MAZDA;model=CX7;value=2.0
+brand=HONDA;model=CRV;value=2.4
+brand=BMW;model=520;value=2.0
