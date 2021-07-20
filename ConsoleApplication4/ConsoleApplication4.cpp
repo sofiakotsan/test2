@@ -71,6 +71,8 @@ public:
 		buildWalls();
 		roofCompleated = true;
 	}
+
+
 	virtual void Show() override
 	{
 		BuildingWithWalls::Show();
