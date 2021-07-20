@@ -99,6 +99,8 @@ int main()
 	bw.Show();
 
 	cout << endl;
+	cout << endl;
+	cout << endl;
 
 	BuildingWithRoof br;
 	br.Show();
